@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(248, 247, 183); 
+    text-align: center;
+    scrollbar-color: blue orange;
+}
+
+.container {
+    height: 500px;
+    display: flex;
+    overflow-x: auto;
+  }
+
+  .container img {
+    margin-right: 15px;
+  }
+
+  
+
+ 
